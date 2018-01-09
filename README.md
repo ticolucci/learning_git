@@ -1,6 +1,7 @@
 # learning_git
 
 Contributors list:
-Ilinca
-Filip
+- Ilinca
+- Filip
+- Ira
 
